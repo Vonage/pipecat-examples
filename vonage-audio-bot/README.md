@@ -50,7 +50,7 @@ Receives and sends raw PCM audio frames to/from Pipecat.
   - Vonage account credentials
     - Project Application ID
     - Project Private Key file
-  - Opentok / Nexmo account credentials
+  - Opentok account credentials
     - Project API Key
     - Project Secret
 - A routed Vonage session
